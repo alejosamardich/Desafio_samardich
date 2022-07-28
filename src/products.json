@@ -1,0 +1,4 @@
+[{"id":1,"nombre":"PS5","stock":2,"precio":900,"imagen":"https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21","timestamp":1658620433153,"code":"Zapatos1658620433153"},
+{"id":2,"nombre":"XBOX SERIES X","stock":5,"precio":800,"imagen":"https://www.atajo.com.ar/thumb/0000000RRT-0000234357RRT-00002-Consola-Xbox-Series-X-01_800x800.jpg","timestamp":1658620433153,"code":"Camisetas1658620433153"},
+{"id":3,"nombre":"NINTENDO SWITCH","stock":3,"precio":600,"imagen":"https://www.atajo.com.ar/images/00000HAD-S-KABAA65619HAD-S-KABAA-Consola-Nintendo-Switch-Neon-01.jpg","timestamp":1658620433153,"code":"Pantalonetas1658620433153"},
+{"id":4,"nombre":"PS2","precio":130,"stock":1,"imagen":"https://sm.ign.com/t/ign_es/gallery/t/the-best-p/the-best-ps2-games-ever_7ser.1280.jpg","timestamp":1658620433153,"code":"Medias1658620433153"}]
